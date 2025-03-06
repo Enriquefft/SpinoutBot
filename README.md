@@ -1,0 +1,2 @@
+# SpinoutBot
+Spinout Whatsapp bot
